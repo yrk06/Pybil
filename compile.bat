@@ -1,0 +1,3 @@
+python analizadorLexico.py
+python analizadorSintatico.py
+python 3ACAssembler.py
